@@ -2,11 +2,11 @@
   "name": "Alpha-Easy-Mining",
   "version": "1.0.0",
   "license": "MIT",
-  "authors": "Crypt04dvisor",
+  "authors": "",
   "main": "proxy.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/crypt04dvisor/Alpha-Easy-Mining.git"
+    "url": "
   },
   "dependencies": {
     "bignumber.js": "^5.0.0",
